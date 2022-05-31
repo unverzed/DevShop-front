@@ -23,7 +23,7 @@
 <h3>Clone the repository:</h3>
 
 ```
-$ git clone https://github.com/unverzed/projeto14-DevShop-front.git
+$ git clone https://github.com/x0nl/projeto14-DevShop-front.git
 ```
 <h3>Install the dependencies:</h3>
 
